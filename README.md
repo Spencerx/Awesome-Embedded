@@ -145,6 +145,8 @@ Table of content
 * [rustlink](https://github.com/gemesa/rustlink) - small set of Rust tools to program STM32 devices
 * [stm32-async-1wire](https://github.com/a5021/stm32-async-1wire) - Non-blocking, register-level 1-Wire master for STM32 (DS18B20 temperature driver on top). Hardware-timed (TIM1+DMA, DMAMUX on G0), interrupt-free, RTOS-agnostic; header-only backends for STM32F1/F0/G0; hardware-validated on Blue Pill (F103) and STM32G031; strong-pull-up parasite powering; released v1.6.1.
 
+* [SD Card OVID Player](https://github.com/akasa828/SD_Card_OVID_Player) - STM32F103 SD card frame-video player for SSD1306/SH1106 OLED, with FatFs file browsing and a Windows media converter.
+
 ### STM32F7
 * [STM32F7 Series](https://www.st.com/en/microcontrollers/stm32f7-series.html?querycriteria=productId=SS1858)
 * [STM32 eLinux](https://elinux.org/STM32)
